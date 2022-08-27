@@ -1,3 +1,7 @@
+#This is where all the magic really happens.
+#If you're going to use some of my code be nice and make your app open source! (And by the way give me some credit *coughs*)
+#If you can let me know too, I'd be excited to hear someone uses something I made!
+
 import subprocess
 from bs4 import BeautifulSoup
 import requests
