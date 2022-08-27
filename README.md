@@ -7,8 +7,8 @@ It can download mods, process collections and create quite useful scripts to upd
 
 ## What it can do
 
-- Download mods
-- Download collections
+- Download *mods*
+- Download *collections*
 - Create scripts for *SteamCMD*
 - Show you a preview of the links you enter
 - Customize the color palette of the application
