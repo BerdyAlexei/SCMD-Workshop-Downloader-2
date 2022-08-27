@@ -70,4 +70,6 @@ If you have tried it on any other operating system and it worked or not, please 
 - #### What happens to my personal information?
 Any data you enter into *SCMD Workshop Downloader 2* is stored only and **exclusively** on your computer.
 
+## About me
 
+I'm pretty new to programming, by the time I release this app it's been about a month since I started, I know my code isn't very good but I hope everything works fine. If you want to contact me, improve or use my code or help me with something; let me know! I will be happy to collaborate. You can contact me on Discord.
