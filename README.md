@@ -36,6 +36,7 @@ Download *SCMD Workshop Downloader 2* here: https://github.com/BerdyAlexei/SCMD-
 
 - #### How to use it?
 *SCMD Workshop Downloader 2* will tell you how to use it if you click on the options button and enter the *INFORMATION & HELP* tab.
+Also, I made a tutorial: https://youtu.be/0ZL2BN9Kvb8
 
 - #### How does it works?
 *SCMD Workshop Downloader 2* is a user interface to interact with *SCMD List Manager* that ultimately will analyze the links you enter in order to recognize if they are items or collections and collect all the information you need from them in order to generate a functional script for your use in *SteamCMD* to download the files corresponding to the links entered initially.
