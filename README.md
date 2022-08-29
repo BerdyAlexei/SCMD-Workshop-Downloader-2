@@ -69,7 +69,7 @@ It might work on other *Windows* operating systems (and hopefully *Linux*) but I
 If you have tried it on any other operating system and it worked or not, please let me know.
 
 - #### What happens to my personal information?
-Any data you enter into *SCMD Workshop Downloader 2* is stored only and **exclusively** on your computer.
+Any data you enter into *SCMD Workshop Downloader 2* is stored only and **exclusively on your computer**.
 
 ## About me
 
