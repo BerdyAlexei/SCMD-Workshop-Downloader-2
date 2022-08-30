@@ -67,7 +67,6 @@ Also all the source code is here and you can check it out if you feel the need.
 
 - #### Can my computer run SCMD Workshop Downloader 2?
 As long as you're using *Windows 10 of 64-bit*, yes.
-It might work on other *Windows* operating systems (and hopefully *Linux*) but I haven't tested it.
 
 If you have tried it on any other operating system and it worked or not, please let me know.
 
