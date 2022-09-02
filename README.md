@@ -66,7 +66,7 @@ If you know of any way to fix this problem please let me know, I'll add the fix 
 Also all the source code is here and you can check it out if you feel the need.
 
 - #### Can my computer run SCMD Workshop Downloader 2?
-As long as you're using *Windows 10-64 bit*, yes.
+As long as you're using *Windows 10-64 bits*, yes.
 
 If you have tried it on any other operating system and it worked or not, please let me know.
 
