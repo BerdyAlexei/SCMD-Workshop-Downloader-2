@@ -13,7 +13,7 @@ It can download mods, process collections and create quite useful scripts to upd
 - Show you a preview of the links you enter
 - Customize the color palette of the application
 - Change the folder where the files are downloaded
-- Download items larger than 1 GB *(Activating the corresponding option)*
+- Download items larger than 300 MB *(Activating the corresponding option)*
 
 ## Download
 
