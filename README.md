@@ -44,7 +44,7 @@ If any folder containing SteamCMD is named with a non-english character, it won'
 - #### How does it works?
 *SCMD Workshop Downloader 2* is a user interface to interact with *SCMD List Manager* that ultimately will analyze the links you enter in order to recognize if they are items or collections and collect all the information you need from them in order to generate a functional script for your use in *SteamCMD* to download the files corresponding to the links entered initially.
 
-- #### Can you make this any game work with this method?
+- #### Can you make any game work with this method?
 Since the only role of the application in regards to downloading the item you want is to get the information needed to use a script to download it with *SteamCMD*, no.
 
 Whether a game allows downloads of its *Workshop* items without purchasing the game is entirely up to the creators of the game. If you want to know which games allow this operation you can enter the following link: https://steamdb.info/sub/17906/apps/
