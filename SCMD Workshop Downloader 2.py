@@ -1,4 +1,4 @@
-#-I'm pretty new to programming, I started a little over a month ago, I know my code looks horrible and I apologize in advance for the visual pain it may cause you.
+#I'm pretty new to programming, I started a little over a month ago, I know my code looks horrible and I apologize in advance for the visual pain it may cause you.
 #If you want to help me improve my code, simplify it and make it look more elegant, all your tips and code are welcome. Thank you! :D
 #(I'll add more comments to make it easier to navigate, but for now if you need to know anything about my code let me know on Discord and I'll explain)
 
